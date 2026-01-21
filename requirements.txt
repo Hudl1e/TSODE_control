@@ -1,0 +1,17 @@
+# Core scientific stack
+numpy>=1.22
+pandas>=1.5
+
+# Plotting (only needed if you use plotting helpers)
+matplotlib>=3.6
+
+# PyTorch + Neural ODE
+torch>=2.0
+torchdiffeq>=0.2.3
+
+# SimGlucose (environment)
+simglucose==0.2.1
+gym==0.15.7
+
+# Misc
+tqdm>=4.66
